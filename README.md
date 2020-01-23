@@ -1,2 +1,5 @@
-# Watcher
-In progress
+# Watcher - in progress
+Online movies platform
+Java - Spring boot
+Javascript
+MySql
